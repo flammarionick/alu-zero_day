@@ -1,1 +1,1 @@
-This is my first readme; how intruiging.
+This is my first readme; how intruiging!
